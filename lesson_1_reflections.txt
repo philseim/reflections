@@ -1,0 +1,13 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+
+How can you use the commands git log and git diff to view the history of files?
+git log gives log of all changes
+git diff shows difference between two commits
+
+How might using version control make you more confident to make changes that could break something?
+
+You can roll back to any change
+
+
+
